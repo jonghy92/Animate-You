@@ -15,7 +15,7 @@
 
 
 <br>
-
+git 
 **1. Requirements:**
 1. Python Version 3.10.0 설치
 2. requirements.txt 필요/담긴 라이브러리 설치
@@ -37,5 +37,12 @@
 
 > 변환된 이미지는 **"history_ouput"** 폴더에 자동 저장됩니다. 필요시 화면에서도 다운로드 가능합니다.
 
+<br>
 
+#### Examples:
 
+![화면 예시](./samples/sample_2.png)
+
+<br>
+
+![화면 예시](./samples/sample_3.png)
