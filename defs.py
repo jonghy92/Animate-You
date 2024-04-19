@@ -8,7 +8,7 @@ import datetime
 def pre_setting(input_img):
     # setting controlnet & adetailer
     ads = webuiapi.ADetailer(ad_model="face_yolov8n.pt",
-                             ad_prompt="attractive, looking at the viewers")
+                             ad_prompt="attractive, looking at the viewers, cute, animation style")
 
     unit1 = webuiapi.ControlNetUnit(input_image=input_img,
                                     model='control_v11f1e_sd15_tile [a371b31b]',
