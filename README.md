@@ -19,7 +19,7 @@
 **1. Requirements:**
 1. Python Version 3.10.0 설치
 2. requirements.txt 필요/담긴 라이브러리 설치
-3. animate_me_prj 디렉토리로 이동 및 CMD 실행
+3. 메인 디렉토리로 이동 및 CMD 실행
 4. CMD:
    - **streamlit run main.py**
 
